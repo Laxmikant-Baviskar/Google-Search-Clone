@@ -32,12 +32,12 @@ In the project directory, you can run:
 
 <div  align="center"  id="top">
 
-<img  src="./preview.png"  alt="Google Clone" />
+<img  src="./Preview-1.png"  alt="Google Clone" />
 </div>
 
 ## Preview Search Page
 
 <div  align="center"  id="top">
 
-<img  src="./preview2.png"  alt="Google Clone search" />
+<img  src="./Preview-2.png"  alt="Google Clone search" />
 </div>
